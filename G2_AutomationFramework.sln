@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2_AutomationFramework", "G2_AutomationFramework\G2_AutomationFramework.csproj", "{977EFFE3-F0CF-4F11-87B9-01A08316DD59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtsyAutomationTests", "AutomationTests\EtsyAutomationTests.csproj", "{2933088B-5511-49A4-8BF4-CA32114F65A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977EFFE3-F0CF-4F11-87B9-01A08316DD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977EFFE3-F0CF-4F11-87B9-01A08316DD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977EFFE3-F0CF-4F11-87B9-01A08316DD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977EFFE3-F0CF-4F11-87B9-01A08316DD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2933088B-5511-49A4-8BF4-CA32114F65A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2933088B-5511-49A4-8BF4-CA32114F65A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2933088B-5511-49A4-8BF4-CA32114F65A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2933088B-5511-49A4-8BF4-CA32114F65A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50ABB9C-9D1A-4267-80A0-9EC7E5308E3C}
+	EndGlobalSection
+EndGlobal
